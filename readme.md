@@ -23,7 +23,7 @@
 
 ### I am Tejasvi
 
-- An Machine Learning & Python enthusiast.
+- A Machine Learning & Python enthusiast.
 - A Computer Science Engineering Undergraduate Student.
 - I want to Apply Machine Learning and Deep Learning to solve real world problems.
-- Looking for opportunities to gain knowledege and to Apply them
+- Looking for opportunities to gain knowledege and to Apply them.
