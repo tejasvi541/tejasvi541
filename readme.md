@@ -25,5 +25,6 @@
 
 - A Machine Learning & Python enthusiast.
 - A Computer Science Engineering Undergraduate Student.
-- I want to Apply Machine Learning and Deep Learning to solve real world problems.
-- Looking for opportunities to gain knowledege and to Apply them.
+- Currently Learning Coumputer Vision and Tensorflow.
+- Looking for opportunities to Contribute to the community.
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=tejasvi541&show_icons=true&theme=tokyonight" /></p>
