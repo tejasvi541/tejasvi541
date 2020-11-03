@@ -29,6 +29,3 @@
 - Looking for opportunities to Contribute to the community.
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=tejasvi541&show_icons=true&theme=tokyonight" /></p>
 
-
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{tejasvi541}/count.svg)
