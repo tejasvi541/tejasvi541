@@ -19,7 +19,7 @@
   <img align="left" alt="Tejasvi's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width = "380px" height="400px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width = "280px" height="300px"/>
 
 ### I am Tejasvi
 
@@ -28,5 +28,5 @@
 - Currently Learning Computer Vision and NLP.
 - Looking for opportunities to Contribute to the community.
 
-[![Tejasvi's github stats](https://github-readme-stats.vercel.app/api?username=tejasvi541)](https://github.com/anuraghazra/github-readme-stats)
+[![Tejasvi's github stats](https://github-readme-stats.vercel.app/api?username=tejasvi541&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
