@@ -27,5 +27,7 @@
 - A Computer Science Engineering Undergraduate Student.
 - Currently Learning Computer Vision and NLP.
 - Looking for opportunities to Contribute to the community.
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=tejasvi541&show_icons=true&theme=tokyonight" /></p>
+
+
+  [![Tejasvi's github stats](https://github-readme-stats.vercel.app/api?username=tejasvi541)](https://github.com/anuraghazra/github-readme-stats)
 
