@@ -19,7 +19,7 @@
   <img align="left" alt="Tejasvi's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width = "380px" height="400px"/>
 
 ### I am Tejasvi
 
