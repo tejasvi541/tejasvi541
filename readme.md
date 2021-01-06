@@ -28,5 +28,5 @@
 - Currently Learning Computer Vision and NLP.
 - Looking for opportunities to Contribute to the community.
 
-[![Tejasvi's github stats](https://github-readme-stats.vercel.app/api?username=tejasvi541&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Tejasvi's github stats](https://github-readme-stats.vercel.app/api?username=tejasvi541&show_icons=true&theme=radical)
 
