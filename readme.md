@@ -25,7 +25,7 @@
 
 - A Machine Learning & Python enthusiast.
 - A Computer Science Engineering Undergraduate Student.
-- Currently Learning Computer Vision and NLP.
+- Currently Working on Computer Vision.
 - Looking for opportunities to Contribute to the community.
 
 ![Tejasvi's github stats](https://github-readme-stats.vercel.app/api?username=tejasvi541&show_icons=true&theme=radical)
