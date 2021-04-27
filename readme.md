@@ -1,7 +1,7 @@
 ## Hello Everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/tejasvi-88b799179/">
-  <img align="left" alt="Tejasvi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Tejasvi's Linkdein" width="22px" color="00adb5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/tejasvi541">
   <img align="left" alt="Tejasvi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -23,10 +23,26 @@
 
 ### I am Tejasvi
 
-- A Machine Learning & Python enthusiast.
-- A Computer Science Engineering Undergraduate Student.
-- Currently Working on Computer Vision.
-- Looking for opportunities to Contribute to the community.
+🎓 &nbsp; A Machine Learning & Python enthusiast.
 
-![Tejasvi's github stats](https://github-readme-stats.vercel.app/api?username=tejasvi541&show_icons=true&theme=radical)
+🎓 &nbsp; A Computer Science Engineering Undergraduate Student.
+
+🤔 &nbsp; Currently Working on Computer Vision.
+
+🤔 &nbsp; Looking for opportunities to Contribute to the community.
+
+
+## My Stats
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejasvi541&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tejasvi541&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="mailto:tejasvi.tanwar541@gamil.com"><img src="https://img.shields.io/badge/-tejasvi.tanwar541@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
