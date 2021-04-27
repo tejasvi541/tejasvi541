@@ -34,7 +34,7 @@
 
 ## My Stats
 <p>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/tejasvi541">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejasvi541&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tejasvi541&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
