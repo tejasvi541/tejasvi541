@@ -22,7 +22,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width = "280px" height="300px"/>
 
 ## I am Tejasvi
-### Visit My Website <b><a href="https://www.tejasvi.codes/"> www.tejasvi.codes </a></b>
+### Visit My Website <b><a href="https://www.tejasvi.codes/"> www.tejasvi.tech </a></b>
 
 🎓 &nbsp; A Machine Learning & Python enthusiast.
 
