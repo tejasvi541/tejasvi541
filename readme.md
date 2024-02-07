@@ -21,16 +21,15 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width = "280px" height="300px"/>
 
-## I am Tejasvi
-### Visit My Website <b><a href="https://www.tejasvi.codes/"> www.tejasvi.tech </a></b>
+## Hey! I am Tejasvi
 
 🎓 &nbsp; A Machine Learning & Python enthusiast.
 
-🎓 &nbsp; A Computer Science Engineering Undergraduate Student.
+🎓 &nbsp; A Computer Science Grad Student @Concordia University.
 
-🤔 &nbsp; Currently Working on Computer Vision.
+🤔 &nbsp; Currently Working on Backend Development and Machine Learning.
 
-🤔 &nbsp; Looking for opportunities to Contribute to the community.
+🤔 &nbsp; Looking for opportunities to Contribute to the Community.
 
 
 ## My Stats
