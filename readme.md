@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejasvi</h1>
 <h3 align="center">A Master's Student @Concordia Univeristy & a curious Web and Machine Learning Dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasvi541&theme=onedark&row=2&column=3" alt="tejasvi541" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasvi541&theme=onedark&row=1&column=6" alt="tejasvi541" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/weinsimulation" target="blank"><img src="https://img.shields.io/twitter/follow/weinsimulation?logo=twitter&style=for-the-badge" alt="weinsimulation" /></a> </p>
 
