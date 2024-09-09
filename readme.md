@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **more DSA and polishing my skills.**
 
-- 🌱 I’m currently learning **Spring Boot and revising every other thing.**
+- 🌱 I’m currently learning **Go, AWS and revising every other thing.**
 
 - 👯 I’m looking to collaborate on **any project which help me learn new things.**
 
