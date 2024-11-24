@@ -24,7 +24,7 @@
 <a href="https://twitter.com/weinsimulation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="weinsimulation" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/t3jasvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t3jasvi" height="30" width="40" /></a>
 <a href="https://instagram.com/tejasvi.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejasvi.__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tejasvi541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejasvi541" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/t3jasvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tejasvi541" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
